@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+venv\
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración de VSCode o editores
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Cache de pip
+pip-wheel-metadata/
