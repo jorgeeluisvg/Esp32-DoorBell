@@ -9,7 +9,7 @@ Este proyecto es un servidor **FastAPI** que recibe peticiones `POST` (por ejemp
 - Python 3.12 o superior
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Uvicorn](https://www.uvicorn.org/)
-- Una cuenta de servicio SMS (como Twilio, etc.) — _(opcional para enviar SMS reales)_
+- Una cuenta de servicio SMS (como Twilio)
 
 ---
 
